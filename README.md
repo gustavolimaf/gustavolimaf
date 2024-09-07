@@ -41,10 +41,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/GUSTAVOLIMAF/GUSTAVOLIMAF/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Social Media</h2>
 
 ###
