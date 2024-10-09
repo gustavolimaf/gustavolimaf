@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- Estudante do 2° Semestre de Ciência da Computação<br>- Estudando para ser um Desenvolvedor Full Stack</p>
+<p align="left">- Estudante do 2° Semestre de Ciência da Computação<br></p>
 
 ###
 
