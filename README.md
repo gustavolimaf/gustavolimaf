@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- Estudante do 2° Semestre de Ciência da Computação<br></p>
+<p align="left">- Estudante do 3° Semestre de Ciência da Computação<br></p>
 
 ###
 
